@@ -17,5 +17,4 @@ washington.csv (original file taken form: https://capitalbikeshare.com/system-da
 All .csv files are from Udacity Nanodegree Programming for Data Science with Python
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity Nanodegree Programming for Data Science with Python
