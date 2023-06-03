@@ -92,7 +92,7 @@ def time_stats(df):
     print ("The most common hour is: ", df['hour'].value_counts().idxmax())
     
     print ("\nThis took %s seconds." % (time.time() - start_time))
-    print ('-'*69)
+    print ('-'*40)
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
