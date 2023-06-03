@@ -5,10 +5,16 @@
 Programming for Data Science with Python (Project 2)
 
 ### Description
-Describe what your project is about and what it does
+In this project, I used Python to explore data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+chicago.csv (orginal file taken from: https://divvybikes.com/system-data)
+
+new_york_city.csv (original file taken form: https://citibikenyc.com/system-data)
+
+washington.csv (original file taken form: https://capitalbikeshare.com/system-data
+
+All .csv files are from Udacity Nanodegree Programming for Data Science with Python
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
